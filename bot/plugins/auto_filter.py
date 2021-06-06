@@ -121,7 +121,7 @@ async def auto_filter(bot, update):
             
             results.append(
                 [
-                    InlineKeyboardButton(button_text, url=file_link)
+                    InlineKeyboardButton(🔘 Get our channel Link🔘, url=https://t.me/CL_FILMm)
                 ]
             )
         
